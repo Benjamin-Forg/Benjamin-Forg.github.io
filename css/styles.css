@@ -56,7 +56,7 @@ h1, h2 {
 h3 {
   margin-bottom: 0;
 }
-.item-details h3 + p {
+.item-details h3 + p, .education-italic {
   font-style: italic;
 }
 .item-details h3 ~ p {
@@ -141,6 +141,13 @@ div.ciyf-sprite.animate-ciyf {
 .sprite-button:hover {
   background: rgba(47, 48, 97, 80%);
 }
+p.padding-top {
+  padding-top: 20px;
+}
+section.education section p {
+  padding-left: 20px;
+}
+
 
 /* Work Experience
 ------------------------------------*/
