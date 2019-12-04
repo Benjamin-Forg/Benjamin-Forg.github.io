@@ -127,7 +127,7 @@ div.ciyf-sprite {
 div.ciyf-sprite.animate-ciyf {
   animation: logo-animation 6.01s steps(115);
 }
-.ciyf-button {
+.sprite-button {
   color: #F7FFF7;
   background: #2F3061;
   text-decoration: none;
@@ -138,7 +138,7 @@ div.ciyf-sprite.animate-ciyf {
   height: 39px;
   font-size: 17px;
 }
-.ciyf-button:hover {
+.sprite-button:hover {
   background: rgba(47, 48, 97, 80%);
 }
 
